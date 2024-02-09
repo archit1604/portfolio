@@ -1,0 +1,19 @@
+
+.fl{
+    display: flex;
+}
+.frntimg{
+    border-radius: 50%;
+    
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
